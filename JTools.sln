@@ -1,8 +1,8 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JTools", "JTools\JTools.csproj", "{87A02F67-8EE7-4213-8788-9171D8C1E316}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JTools", "JTools\JTools\JTools.csproj", "{87A02F67-8EE7-4213-8788-9171D8C1E316}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JTools.Tests", "JTools.Tests\JTools.Tests.csproj", "{81EFC222-A1E5-45FF-B0CF-D5D9B7528E5C}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JTools.Tests", "JTools\JTools.Tests\JTools.Tests.csproj", "{81EFC222-A1E5-45FF-B0CF-D5D9B7528E5C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
